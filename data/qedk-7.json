@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "qedk",
+  "address": "0x76577d204A5bd63b6D006222429c4D5124f4619c",
+  "risk": "G",
+  "title": "Allowance checks are not required",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/7"
+}
