@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "uint32 conversion doesn't work as expected.",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/28"
+}
