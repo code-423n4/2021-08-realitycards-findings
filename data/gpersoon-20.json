@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "make code of rentAllCards easier to read and maintain",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/20"
+}
