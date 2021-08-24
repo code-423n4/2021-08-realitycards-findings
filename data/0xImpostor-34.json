@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xImpostor",
+  "address": "0x2bc996DED6d9325311DEE1bd32998e2fc7f9c922",
+  "risk": "0",
+  "title": "bidExists check is in the wrong place.",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/34"
+}
