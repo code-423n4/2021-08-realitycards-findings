@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xImpostor",
+  "address": "0x2bc996DED6d9325311DEE1bd32998e2fc7f9c922",
+  "risk": "2",
+  "title": "Insufficient checks at the smart contract level to ensure that previous user address is the lowest bid that is higher than the bid to be added.",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/37"
+}
