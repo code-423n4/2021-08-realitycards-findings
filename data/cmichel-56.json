@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`RCTreasury` role setup does not match diagram",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-08-realitycards-findings/issues/56"
+}
