@@ -1,3 +1,11 @@
+---
+sponsor: "Reality Cards"
+slug: "2021-08-realitycards"
+date: "2021-09-21"
+title: "Reality Cards (round 2)"
+findings: "https://github.com/code-423n4/2021-08-realitycards-findings/issues"
+contest: 26
+---
 
 # Overview
 
